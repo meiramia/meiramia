@@ -3,7 +3,7 @@
 I am Meir
 
 - 🔭 I’m currently working on MS based product in Amdocs
-- 🌱 I’m currently learning Cloud Architecture - AWS and K8s
+- 🌱 I’m currently learning Cloud Architecture - AWS and K8S
 - 💬 Ask me about TMF Ordering modules , manage development teams and Agile methodologies 😄 
 
 
